@@ -1,2 +1,4 @@
 # snake
-First year project
+First year uni assignment
+
+
